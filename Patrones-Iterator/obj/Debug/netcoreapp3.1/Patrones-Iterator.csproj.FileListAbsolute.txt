@@ -1,0 +1,14 @@
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\bin\Debug\netcoreapp3.1\Patrones-Iterator.exe
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\bin\Debug\netcoreapp3.1\Patrones-Iterator.deps.json
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\bin\Debug\netcoreapp3.1\Patrones-Iterator.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\bin\Debug\netcoreapp3.1\Patrones-Iterator.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\bin\Debug\netcoreapp3.1\Patrones-Iterator.dll
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\bin\Debug\netcoreapp3.1\Patrones-Iterator.pdb
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\obj\Debug\netcoreapp3.1\Patrones-Iterator.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\obj\Debug\netcoreapp3.1\Patrones-Iterator.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\obj\Debug\netcoreapp3.1\Patrones-Iterator.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\obj\Debug\netcoreapp3.1\Patrones-Iterator.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\obj\Debug\netcoreapp3.1\Patrones-Iterator.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\obj\Debug\netcoreapp3.1\Patrones-Iterator.dll
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\obj\Debug\netcoreapp3.1\Patrones-Iterator.pdb
+E:\unity\quark\Patrones\Patrones-Iterator\Patrones-Iterator\obj\Debug\netcoreapp3.1\Patrones-Iterator.genruntimeconfig.cache
